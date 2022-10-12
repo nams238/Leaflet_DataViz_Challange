@@ -1,4 +1,3 @@
-// Visualizing-Data-with-Leaflet - logic.js
 
 // Variables for earthquakes & tectonic plates
 var earthquakesURL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson"
